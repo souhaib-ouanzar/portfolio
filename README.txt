@@ -20,7 +20,7 @@ Section projets et compétences : Présentation de mes compétences techniques e
 PHP CSS3 HTML5
 📐 Installation
 Clonez le dépôt :
-git clone https://github.com/votre-utilisateur/votre-portfolio.git
+git clone https://github.com/souhaib-ouanzar/portfolio.git
 Accédez au dossier du projet :
-cd votre-portfolio
+cd portfolio
 Ouvrez le fichier index.html dans votre navigateur pour visualiser le portfolio localement.
